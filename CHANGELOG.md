@@ -4,6 +4,12 @@
 
 ### Patch Changes
 
+- 9049bae: skydiving is cool
+
+## 3.0.1
+
+### Patch Changes
+
 - 43c8912: skydiving is cool
 - 1959de0: i had a dream to travel over the world
 
