@@ -8,6 +8,7 @@
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
   "bin": {
+    "shoudoo": "dist/index.js",
     "kamiru": "dist/index.js"
   },
   "publishConfig": {
