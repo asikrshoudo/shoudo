@@ -1,5 +1,12 @@
 # kamiruu
 
+## 3.0.1
+
+### Patch Changes
+
+- 43c8912: skydiving is cool
+- 1959de0: i had a dream to travel over the world
+
 ## 3.0.0
 
 ### Major Changes
