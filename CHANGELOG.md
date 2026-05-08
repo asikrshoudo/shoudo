@@ -1,5 +1,11 @@
 # kamiruu
 
+## 3.0.3
+
+### Patch Changes
+
+- 3fac684: what about japan tour!! car meetups
+
 ## 3.0.2
 
 ### Patch Changes
