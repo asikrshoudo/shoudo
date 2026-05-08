@@ -1,22 +1,19 @@
 import type { Config } from "./type";
 
-import { c } from "./utils";
-
 // ? '\n' are important for the formatting of the output, so don't remove them. - @Ruhannn
-const config: Config = {
-  name: "Asikur Shek Shoudo",
-  bio: "\n Ex-spscian • CEO of Thekami \n",
-  about: `Hey, I am shoudo. btw i love traveling.
-I try to make things ${c.bold.magenta("super fast")} and ${c.bold.magenta("beautiful")} as well.
-In my free time, I like to watch ${c.bold.magenta("Movie")} a lot and think about my future works.
-I particularly enjoy learning about something. I have a passion for ${c.bold.magenta("technologies")}.\n`,
+const config = {
+  name: "shoudo",
+  bio: "\n Ex-SPSCian • CEO of TheKami • CTO of SaltDrio \n",
+  about: `Hey, I am shoudo. I love traveling — skydiving is on my bucket list.
+In my free time, I watch anime & movies, follow UFC & F1, and play Minecraft.
+I have a passion for technologies and I particularly enjoy building things.\n`,
   extra: {
     github: { label: "@asikrshoudo", url: "https://github.com/asikrshoudo" },
-    email: { label: "shoudo@proton.me", url: "shoudo@proton.me" },
+    twitter: { label: "@im_shoudo", url: "https://x.com/im_shoudo" },
+    email: { label: "shoudo@proton.me", url: "mailto:shoudo@proton.me" },
     website: { label: "shoudo.xyz", url: "https://www.shoudo.xyz" },
-    // facebook: { label: "Facebook", url: "https://facebook.com/ruhanrouf" },
   },
-  skills: ["C", "Python", "Git", "Linux"],
+  skills: ["C", "Java", "Python", "Git", "Linux"],
 };
 
 export default config;

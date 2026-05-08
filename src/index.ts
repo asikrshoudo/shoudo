@@ -26,7 +26,7 @@ ${c.white(config.about)}
 ${boxen(skills, {
   padding: 1,
   borderStyle: "round",
-  borderColor: "magenta",
+  borderColor: "blueBright",
   title: "Skills",
   titleAlignment: "center",
 })}
