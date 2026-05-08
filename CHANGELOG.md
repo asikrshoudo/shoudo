@@ -1,5 +1,11 @@
 # kamiruu
 
+## 3.0.2
+
+### Patch Changes
+
+- 73fa2d5: I want to go skydiving.
+
 ## 3.0.1
 
 ### Patch Changes
