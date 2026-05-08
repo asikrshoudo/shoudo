@@ -1,5 +1,5 @@
 {
-  "name": "shoudo",
+  "name": "shoudoo",
   "type": "module",
   "version": "3.0.1",
   "description": "fetch myself",
@@ -10,8 +10,11 @@
   "bin": {
     "kamiru": "dist/index.js"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
-    "/dist",
+    "dist",
     "README.md",
     "package.json"
   ],
