@@ -1,4 +1,3 @@
-import type { Config } from "./type";
 
 // ? '\n' are important for the formatting of the output, so don't remove them. - @Ruhannn
 const config = {
